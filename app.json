@@ -1,0 +1,15 @@
+{
+    "id": "27b3e77b-0b67-45fe-8bee-529322a361e2",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "SAHIL",
+        "homepage": "https://github.com/Sahil-Bhatt",
+        "support": "https://github.com/Sahil-Bhatt"
+    },
+    "name": "MarkOneApp",
+    "nameSlug": "markoneapp",
+    "classFile": "MarkOneAppApp.ts",
+    "description": "Testing purposes"
+}
